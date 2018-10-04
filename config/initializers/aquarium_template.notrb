@@ -11,7 +11,7 @@ Bioturk::Application.config.instance_name = "PlantSynBioLab"
 # URLs
 #
 
-Bioturk::Application.config.github_path = "https://github.com/PlantSynBioLab/aquarium"
+Bioturk::Application.config.github_path = "https://github.com/PlantSynBioLab"
 Bioturk::Application.config.image_server_interface = 'http://your.image.server'
 Bioturk::Application.config.vision_server_interface = ''
 
